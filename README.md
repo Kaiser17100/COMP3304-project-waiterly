@@ -8,7 +8,7 @@ Waiterly is a system designed to assist restaurant/café/bar waiter operations b
 - assist waiters in workload 
 - reduce expenses for owners of restaurants due to the decreased need for waiters
 
-##TEAM NUMBERS
+##TEAM MEMBERS
 - Dilan Isik
 - Emre Dagli
 - Bora Cetin
