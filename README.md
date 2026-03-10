@@ -1,4 +1,6 @@
 #COMP3304 PROJECT - WAITERLY
+
+
 ##PROJECT DESCRIPTION: 
 Waiterly is a system designed to assist restaurant/café/bar waiter operations by managing orders and improving service efficiency.
 
