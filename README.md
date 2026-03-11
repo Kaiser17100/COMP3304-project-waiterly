@@ -1,7 +1,7 @@
 # COMP3304 PROJECT - WAITERLY
 
 ## DESCRIPTION: 
-- Waiterly's goal is to create a better ordering experience for customers and to ease the burden of waiters
+- In this project, we designed Waiterly, a system that aims to improve restaurant, café, and bar operations. The system helps waiters manage orders more efficiently, allows customers to easily view menu ingredients, and creates a faster and more comfortable service experience.
 
 ## GOALS:
 
