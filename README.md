@@ -5,11 +5,8 @@
 ##PROJECT GOALS
 
 -improve service efficiency
-
 -help customers to easily know the contents of their beverage/meal
-
 -assist waiters in workload
-
 -reduce expenses for owners of restaurants due to the decreased need for waiters
 
 
