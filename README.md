@@ -4,11 +4,13 @@
 
 ##PROJECT GOALS
 
--improve service efficiency
--help customers to easily know the contents of their beverage/meal
--assist waiters in workload
--reduce expenses for owners of restaurants due to the decreased need for waiters
-
+- improve service efficiency
+- help customers to easily know the ingredients of their beverage/meal
+- assist waiters in workload
+- reduce expenses for owners of restaurants due to the decreased need for waiters
+- create a menu that is not product-centered but user-mood centered
+- make going to such places a better and stress-free experience for people who have anxiety or people who don't want to wait for simple things lile salt/napkin etc.
+- increase sales in such places thanks to the difference in concept/easier experience
 
 ##TEAM MEMBERS
 
