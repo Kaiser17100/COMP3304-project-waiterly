@@ -9,7 +9,7 @@
 - assist waiters in workload
 - reduce expenses for owners of restaurants due to the decreased need for waiters
 - create a menu that is not product-centered but user-mood centered
-- make going to such places a better and stress-free experience for people who have anxiety or people who don't want to wait for simple things lile salt/napkin etc.
+- make going to such places a better and stress-free experience for people who have anxiety or people who don't want to wait for simple things like salt/napkin etc.
 - increase sales in such places thanks to the difference in concept/easier experience
 
 ##TEAM MEMBERS
