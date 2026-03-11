@@ -1,8 +1,8 @@
 # COMP3304 PROJECT - WAITERLY
 
-## PROJECT DESCRIPTION: Waiterly is a system designed to assist restaurant/café/bar waiter operations by managing orders and improving service efficiency.
+## DESCRIPTION: Waiterly is a system designed to assist restaurant/café/bar waiter operations by managing orders and improving service efficiency.
 
-## PROJECT GOALS
+## GOALS:
 
 - improve service efficiency
 - help customers to easily know the ingredients of their beverage/meal
@@ -11,3 +11,9 @@
 - create a menu that is not product-centered but user-mood centered
 - make going to such places a better and stress-free experience for people who have anxiety or people who don't want to wait for simple things like salt/napkin etc.
 - increase sales in such places thanks to the difference in concept/easier experience
+
+## TEAM MEMBERS:
+- Ahmet Burak Namal
+- Bora Çetin
+- Dilan Işık
+- Emre Dağlı
