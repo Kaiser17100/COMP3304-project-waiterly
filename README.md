@@ -15,9 +15,6 @@
 ##TEAM MEMBERS
 
 -Dilan Işık
-
 -Emre Dağlı
-
 -Bora Çetin
-
 -Ahmet Burak Namal
