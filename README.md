@@ -14,10 +14,10 @@
 
 ##TEAM MEMBERS
 
--Dilan Isik
+-Dilan Işık
 
--Emre Dagli
+-Emre Dağlı
 
--Bora Cetin
+-Bora Çetin
 
 -Ahmet Burak Namal
