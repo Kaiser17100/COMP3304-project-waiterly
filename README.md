@@ -1,6 +1,7 @@
 # COMP3304 PROJECT - WAITERLY
 
-## DESCRIPTION: Waiterly is a system designed to assist restaurant/café/bar waiter operations by managing orders and improving service efficiency.
+## DESCRIPTION: 
+- This project's goal is to create a better ordering experience for customers and to ease the burden of waiters
 
 ## GOALS:
 
