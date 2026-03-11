@@ -1,6 +1,7 @@
 # COMP3304 PROJECT - WAITERLY
 
-## DESCRIPTION: This project's goal is to create a better ordering experience for customers and to ease the burden of waiters
+## DESCRIPTION: 
+- This project's goal is to create a better ordering experience for customers and to ease the burden of waiters
 
 ## GOALS:
 
