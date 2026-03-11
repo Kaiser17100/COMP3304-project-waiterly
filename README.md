@@ -15,7 +15,7 @@
   
 ##TEAM MEMBERS
 
--Dilan Isik
+-Dilan Işık
 
 -Emre Dagli
 
