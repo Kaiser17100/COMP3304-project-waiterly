@@ -1,7 +1,7 @@
 # COMP3304 PROJECT - WAITERLY
 
 ## DESCRIPTION: 
-- This project's goal is to create a better ordering experience for customers and to ease the burden of waiters
+- Waiterly's goal is to create a better ordering experience for customers and to ease the burden of waiters
 
 ## GOALS:
 
@@ -11,8 +11,6 @@
 - reduce expenses for owners of restaurants due to the decreased need for waiters
 - create a menu that is not product-centered but user-mood centered
 - make going to such places a better and stress-free experience for people who have anxiety or people who don't want to wait for simple things like salt/napkin etc.
-- increase sales in such places thanks to the difference in concept/easier experience
-
 ## TEAM MEMBERS:
 - Ahmet Burak Namal
 - Bora Çetin
