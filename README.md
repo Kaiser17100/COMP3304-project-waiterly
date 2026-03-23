@@ -3,6 +3,11 @@
 ## DESCRIPTION: 
 - In this project, we designed Waiterly, a system that aims to improve restaurant, café, and bar operations. The system helps waiters manage orders more efficiently, allows customers to easily view menu ingredients, and creates a faster and more comfortable service experience.
 
+## TECH STACK
+- React
+- Node.js
+- MongoDB
+
 ## GOALS:
 
 - improve service efficiency
