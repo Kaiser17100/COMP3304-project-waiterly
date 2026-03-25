@@ -1,12 +1,12 @@
-# [cite_start]COMP3304 PROJECT - WAITERLY (Smart Digital Waiter System) [cite: 5]
+# COMP3304 PROJECT - WAITERLY (Smart Digital Waiter System)
 
 ## DESCRIPTION
-[cite_start]Waiterly is a Smart Digital Waiter System designed to address the issue of traditional menus being organized around products rather than customer moods or requests. [cite: 5, 10] [cite_start]It is an innovative digital ordering website for cafés, bars, and restaurants that provides a personalized ordering experience. [cite: 30] [cite_start]The system aims to speed up the ordering process, reduce waiting times, and improve overall customer satisfaction while helping businesses operate more efficiently and cost-effectively. [cite: 20]
+Waiterly is a Smart Digital Waiter System designed to address the issue of traditional menus being organized around products rather than customer moods or requests. It is an innovative digital ordering website for cafés, bars, and restaurants that provides a personalized ordering experience. The system aims to speed up the ordering process, reduce waiting times, and improve overall customer satisfaction while helping businesses operate more efficiently and cost-effectively.
 
 ## TECH STACK
-* [cite_start]**Frontend:** React and HTML [cite: 43]
-* [cite_start]**Backend:** Node.js [cite: 43]
-* [cite_start]**Database:** MongoDB [cite: 43]
+* **Frontend:** React and HTML
+* **Backend:** Node.js
+* **Database:** MongoDB
 
 ## KEY FEATURES
 * [cite_start]**QR Code Menu Access & Table Session:** Customers can scan a QR code to access the digital menu, enter their table number, start a secure ordering session, and view their total bill. [cite: 35]
